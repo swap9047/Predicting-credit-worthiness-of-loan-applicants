@@ -5,7 +5,7 @@ Credit and default risks have been an area of concern for banking and non-bankin
 Our research aims to study the existing work in this field and find ways to improve the modelling algorithm so that businesses can make better decisions. Our goal is to estimate the probability that a potential customer applying for a loan will experience delinquency beyond 30 days or default on his/her financial commitments to the company. Based on this probability, we plan to classify customers in different risk buckets so that a company is aware of the risk of acquiring a customer and can relate the overall risk potential to its risk appetite. While our research uses analysis from publicly available data of a company named Lending Club, we believe that the designed model can be used in other sectors and companies where some form of financial risk grading is involved.
 
 
-Data Source
+Data Source:
 Our main data source is the dataset floated by a peer to peer lending company called as LendingClub (Dataset). The base dataset contained 1,321,864 observations with 111 variables. On this dataset, we have added variables like Median Income and Poverty which would give us an indication of the effects of macroeconomic factors on the default rate.
 
 References
